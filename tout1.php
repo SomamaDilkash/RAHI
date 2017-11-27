@@ -17,7 +17,6 @@
 	<?php
         $a = "Hellow world";
         echo $a; // Variables
-
         // $2a = "Hellow world";
         // echo $2; 
 	?>
